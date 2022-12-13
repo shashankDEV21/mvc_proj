@@ -1,0 +1,10 @@
+Declares a DispatcherServlet in web.xml. 
+If the Spring XML configuration file is NOT specified, Spring will look for the {servlet-name}-servlet.xml.
+
+In this example, Spring will look for the cstspconf-web-servlet.xml
+
+https://docs.spring.io/spring/docs/4.2.4.RELEASE/spring-framework-reference/html/
+https://docs.spring.io/spring/docs/4.2.4.RELEASE/spring-framework-reference/html/mvc.html
+
+https://stackoverflow.com/questions/3977973/whats-the-difference-between-mvcannotation-driven-and-contextannotation
+https://coderanch.com/t/586286/frameworks/mvc-annotation-driven-context-annotation
